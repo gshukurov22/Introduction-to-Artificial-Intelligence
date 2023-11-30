@@ -1,0 +1,1 @@
+Run with Jypiter notebook or copy paste parts according to instructions in the report.
